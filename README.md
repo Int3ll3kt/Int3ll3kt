@@ -1,9 +1,8 @@
 - <h1> 👋 Hi, Nice to meet You </h1>
 - <b> I’m Int3ll3kt
-- 👀 I’m interested in Mobile Development Frontend, Backend, DevOps, 
-- 🌱 I’m currently learning Android Mobile Development, 
-  things haven't been going smoothly as planned, but I'll always keep pushing...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Mobile Development, Backend, DevOps, 
+- 🌱 I’m currently learning the Spring Framework
+- 💞️ I’m looking to collaborate on projects as long as I can benefit by learning.
 - 📫 You can reach me via my mail -int3ll3kt@gmail.com
 
 <!---
