@@ -1,7 +1,5 @@
 - <h1> 👋 Hi, Nice to meet You </h1>
 - <b> I’m Int3ll3kt
-- 👀 I’m interested in Mobile Development, Backend, DevOps, 
-- 🌱 I’m currently learning the Spring Framework
 - 💞️ I’m looking to collaborate on projects as long as I can benefit by learning.
 - 📫 You can reach me via my mail -int3ll3kt@gmail.com
 
